@@ -1,1 +1,3 @@
-Test git for the MCCV mod 
+Minecraft CV Mod for primary education
+
+Still in development
