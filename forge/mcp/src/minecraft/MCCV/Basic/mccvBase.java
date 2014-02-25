@@ -10,7 +10,7 @@ import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.network.NetworkMod;
  
-@Mod(modid="MC-CV", name="Minecraft CV Mod", version="0.0.1")
+@Mod(modid="MC-CV", name="Minecraft CV Modification", version="0.0.1")
 @NetworkMod(clientSideRequired=true, serverSideRequired=false)
 public class mccvBase {
  
