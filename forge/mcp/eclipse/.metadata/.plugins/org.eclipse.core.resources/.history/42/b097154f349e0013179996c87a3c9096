@@ -19,7 +19,7 @@ public class mccvBase {
         public static mccvBase instance;
        
         // Says where the client and server 'proxy' code is loaded.
-        @SidedProxy(clientSide="MCCV.Basic.client.ClientProxy", serverSide="MCCV.Basic.CommonProxy")
+        @SidedProxy(clientSide="MCCV.basic.client.ClientProxy", serverSide="MCCV.basic.CommonProxy")
         public static CommonProxy proxy;
        
         @EventHandler
