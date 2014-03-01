@@ -1,0 +1,22 @@
+package MCCV.Basic;
+
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.PrintWriter;
+
+import net.minecraftforge.event.ForgeSubscribe;
+import net.minecraftforge.event.ServerChatEvent;
+
+
+
+public class ChatEventHook {
+	PrintWriter output;
+	public ChatEventHook() {
+		 output = new PrintWriter(new BufferedWriter(new FileWriter("/test.txt")));
+	}
+	
+	@ForgeSubscribe
+	public void onServerChatEvent(ServerChatEvent event) {
+		output.println("TEST TEST TEST: " + event.message);
+	}
+}
