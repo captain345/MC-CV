@@ -64,3 +64,41 @@
 2014-03-01 13:54:47 [CLIENT] [INFO] [CHAT] <Player125> this is a test
 2014-03-01 13:55:17 [CLIENT] [INFO] [CHAT] Player125 fell from a high place
 2014-03-01 13:56:07 [CLIENT] [INFO] Stopping!
+2014-03-01 15:25:04 [CLIENT] [INFO] Setting user: Player15
+2014-03-01 15:25:04 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-01 15:25:05 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-01 15:25:08 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 15:25:08 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 15:25:08 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 15:25:09 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 15:25:10 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-01 15:25:26 [CLIENT] [INFO] [CHAT] <Player15> ufhwjanfkjwaj
+2014-03-01 15:25:44 [CLIENT] [INFO] Stopping!
+2014-03-01 15:38:45 [CLIENT] [INFO] Setting user: Player373
+2014-03-01 15:38:46 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-01 15:38:46 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-01 15:38:49 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 15:38:50 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 15:38:50 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 15:38:50 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 15:38:52 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-01 15:39:16 [CLIENT] [INFO] [CHAT] <Player373> test
+2014-03-01 15:45:53 [CLIENT] [INFO] Stopping!
+2014-03-01 16:38:17 [CLIENT] [INFO] Setting user: Player753
+2014-03-01 16:38:18 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-01 16:38:18 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-01 16:38:21 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 16:38:22 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 16:38:22 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 16:38:22 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 16:38:23 [CLIENT] [INFO] Stopping!
+2014-03-01 16:38:46 [CLIENT] [INFO] Setting user: Player487
+2014-03-01 16:38:47 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-01 16:38:47 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-01 16:38:50 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 16:38:51 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 16:38:51 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 16:38:51 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 16:38:52 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-01 16:39:04 [CLIENT] [INFO] [CHAT] <Player487> jidjaiwjdwa
+2014-03-01 16:39:16 [CLIENT] [INFO] Stopping!

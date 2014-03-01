@@ -1,0 +1,32 @@
+import net.minecraftforge.event.entity.living.LivingAttackEvent;
+import net.minecraftforge.event.entity.player.PlayerSleepInBedEvent;
+
+public class ChatEventHook {
+	
+	import net.minecraftforge.event.entity.living.LivingAttackEvent;
+	import net.minecraftforge.event.entity.player.PlayerSleepInBedEvent;
+
+	public class EventHookContainerClass
+	{
+		@ForgeSubscribe
+		public void entityAttacked(LivingAttackEvent event)
+		{
+	
+			EntityLiving attackedEnt = event.entityLiving;
+			DamageSource attackSource = event.source;
+	
+	
+		if (event.isCancelable())
+		{
+			event.setCanceled(true);
+		}
+	
+		}
+	
+		@ForgeSubscribe
+		public void onSleepyTime(PlayerSleepInBedEvent event)
+		{
+			event.result = EnumStatus.NOT_POSSIBLE_NOW;
+		}
+	}
+}

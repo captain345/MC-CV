@@ -3,6 +3,7 @@ package MCCV.Basic;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
+import net.minecraftforge.common.MinecraftForge;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.Mod.Instance;
@@ -34,8 +35,8 @@ public class mccvBase {
         @EventHandler
         public void load(FMLInitializationEvent event) {
                 proxy.registerRenderers();
-
                 
+                MinecraftForge.EVENT_BUS.register(new ChatEventHook());
                 
         }//end of load 
        
