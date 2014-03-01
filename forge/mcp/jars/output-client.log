@@ -147,3 +147,80 @@
 2014-03-01 17:24:53 [CLIENT] [SEVERE] Realms: Server not available!
 2014-03-01 17:25:14 [CLIENT] [INFO] [CHAT] <Player4> test test test test
 2014-03-01 17:25:51 [CLIENT] [INFO] Stopping!
+2014-03-01 18:17:49 [CLIENT] [INFO] Setting user: Player639
+2014-03-01 18:17:49 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-01 18:17:50 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-01 18:17:52 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 18:17:53 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 18:17:54 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 18:17:54 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 18:17:55 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-01 18:20:39 [CLIENT] [INFO] [CHAT] That player cannot be found
+2014-03-01 18:20:43 [CLIENT] [INFO] [CHAT] <Player639> t
+2014-03-01 18:20:55 [CLIENT] [INFO] [CHAT] Given Command Block (ID 137) * 1 to Player639
+2014-03-01 18:21:44 [CLIENT] [INFO] [CHAT] Command set: /testfor @p[x=50,y=64,z=46,r=10]
+2014-03-01 18:22:29 [CLIENT] [INFO] Setting user: Player123
+2014-03-01 18:22:30 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-01 18:22:30 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-01 18:22:33 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 18:22:34 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 18:22:34 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 18:22:35 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 18:22:37 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-01 18:22:56 [CLIENT] [INFO] [CHAT] Command set: /testfor @p[x=50,y=64,z=46,r=5]
+2014-03-01 18:24:00 [CLIENT] [INFO] [CHAT] Command set: /testfor @p[x=198,y=73,z=184,r=5]
+2014-03-01 18:24:17 [CLIENT] [INFO] [CHAT] Command set: /testfor @p[x=198,y=73,z=184,r=5]
+2014-03-01 18:24:31 [CLIENT] [INFO] [CHAT] Command set: /testfor @p[x=-198,y=73,z=184,r=5]
+2014-03-01 18:25:08 [CLIENT] [INFO] [CHAT] Teleported Player123 to 0.5,64.5,0.5
+2014-03-01 18:25:49 [CLIENT] [INFO] [CHAT] Command set: /testfor @p[x=0,y=67,z=0,r=30]
+2014-03-01 18:27:38 [CLIENT] [INFO] [CHAT] Command set: /say @a chicken nuggets
+2014-03-01 18:27:57 [CLIENT] [INFO] [CHAT] [@] Player123 chicken nuggets
+2014-03-01 18:27:59 [CLIENT] [INFO] [CHAT] [@] Player123 chicken nuggets
+2014-03-01 18:28:00 [CLIENT] [INFO] [CHAT] [@] Player123 chicken nuggets
+2014-03-01 18:28:03 [CLIENT] [INFO] [CHAT] [@] Player123 chicken nuggets
+2014-03-01 18:28:05 [CLIENT] [INFO] [CHAT] [@] Player123 chicken nuggets
+2014-03-01 18:28:11 [CLIENT] [INFO] [CHAT] [@] Player123 chicken nuggets
+2014-03-01 18:28:14 [CLIENT] [INFO] [CHAT] [@] Player123 chicken nuggets
+2014-03-01 18:28:26 [CLIENT] [INFO] [CHAT] Command set: test /say @a chicken nuggets
+2014-03-01 18:29:30 [CLIENT] [INFO] [CHAT] Command set: /say @a test
+2014-03-01 18:29:31 [CLIENT] [INFO] [CHAT] [The Voice] Player123 test
+2014-03-01 18:29:33 [CLIENT] [INFO] [CHAT] [The Voice] Player123 test
+2014-03-01 18:29:42 [CLIENT] [INFO] [CHAT] Command set: /say test
+2014-03-01 18:29:43 [CLIENT] [INFO] [CHAT] [The Voice] test
+2014-03-01 18:29:45 [CLIENT] [INFO] [CHAT] [The Voice] test
+2014-03-01 18:29:51 [CLIENT] [INFO] [CHAT] [The Voice] test
+2014-03-01 18:30:06 [CLIENT] [INFO] Stopping!
+2014-03-01 18:45:37 [CLIENT] [INFO] Setting user: Player426
+2014-03-01 18:45:38 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-01 18:45:39 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-01 18:45:41 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 18:45:42 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 18:45:43 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 18:45:43 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 18:45:44 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-01 18:46:04 [CLIENT] [INFO] [CHAT] [The Voice] test
+2014-03-01 18:46:07 [CLIENT] [INFO] [CHAT] [The Voice] test
+2014-03-01 18:46:11 [CLIENT] [INFO] [CHAT] <Player426> try this
+2014-03-01 18:46:18 [CLIENT] [INFO] [CHAT] [The Voice] test
+2014-03-01 18:46:21 [CLIENT] [INFO] [CHAT] [The Voice] test
+2014-03-01 18:46:29 [CLIENT] [INFO] [CHAT] Command set: /say test
+2014-03-01 18:46:30 [CLIENT] [INFO] [CHAT] [The Voice] test
+2014-03-01 18:46:49 [CLIENT] [INFO] [CHAT] <Player426> another test
+2014-03-01 18:46:50 [CLIENT] [INFO] [CHAT] [The Voice] test
+2014-03-01 18:47:06 [CLIENT] [INFO] [CHAT] [The Voice] test
+2014-03-01 18:48:25 [CLIENT] [INFO] Stopping!
+2014-03-01 18:57:27 [CLIENT] [INFO] Setting user: Player111
+2014-03-01 18:57:28 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-01 18:57:28 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-01 18:57:32 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 18:57:33 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 18:57:33 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 18:57:33 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 18:57:34 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-01 18:57:41 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-01 18:57:41 [CLIENT] [INFO] [CHAT] <Player111> test
+2014-03-01 18:57:49 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-01 18:57:49 [CLIENT] [INFO] [CHAT] <Player111> y
+2014-03-01 18:57:54 [CLIENT] [INFO] Stopping!

@@ -1,5 +1,7 @@
 package MCCV.Basic;
 
+import ibxm.Player;
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -23,10 +25,17 @@ public class ChatEventHook {
 		}
 		
 	}
+	public void test(){
+	
+	}
+	
 	
 	@ForgeSubscribe
 	public void onServerChatEvent(ServerChatEvent event) {
+		event.player.addChatMessage("Can you please confirm that input? \n y or n");
 		output.println(event.message);
 		output.flush();
+		
+		
 	}
 }
