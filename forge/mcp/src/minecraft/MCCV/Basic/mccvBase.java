@@ -17,6 +17,7 @@ import cpw.mods.fml.common.registry.GameRegistry;
 @NetworkMod(clientSideRequired=true, serverSideRequired=false)
 public class mccvBase {
  
+		private final static Item itemPen = new Item(5000);
         // The instance of your mod that Forge uses.
 		@Instance("MC-CV")
         public static mccvBase instance;

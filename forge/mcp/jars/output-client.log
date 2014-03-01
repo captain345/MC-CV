@@ -53,3 +53,14 @@
 2014-02-25 16:31:26 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
 2014-02-25 16:31:27 [CLIENT] [SEVERE] Realms: Server not available!
 2014-02-25 16:32:05 [CLIENT] [INFO] Stopping!
+2014-03-01 13:54:27 [CLIENT] [INFO] Setting user: Player125
+2014-03-01 13:54:28 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-01 13:54:29 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-01 13:54:31 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 13:54:32 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 13:54:32 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-01 13:54:32 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-01 13:54:33 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-01 13:54:47 [CLIENT] [INFO] [CHAT] <Player125> this is a test
+2014-03-01 13:55:17 [CLIENT] [INFO] [CHAT] Player125 fell from a high place
+2014-03-01 13:56:07 [CLIENT] [INFO] Stopping!
