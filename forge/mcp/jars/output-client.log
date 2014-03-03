@@ -224,3 +224,94 @@
  y or n
 2014-03-01 18:57:49 [CLIENT] [INFO] [CHAT] <Player111> y
 2014-03-01 18:57:54 [CLIENT] [INFO] Stopping!
+2014-03-03 05:59:30 [CLIENT] [INFO] Setting user: Player873
+2014-03-03 05:59:30 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-03 05:59:31 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-03 05:59:33 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-03 05:59:34 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-03 05:59:34 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-03 05:59:34 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-03 05:59:40 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-03 06:02:10 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-03 06:02:10 [CLIENT] [INFO] [CHAT] <Player873> test
+2014-03-03 06:02:18 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-03 06:02:18 [CLIENT] [INFO] [CHAT] <Player873> ute
+2014-03-03 06:02:23 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-03 06:02:23 [CLIENT] [INFO] [CHAT] <Player873> wdawda
+2014-03-03 06:02:35 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-03 06:02:35 [CLIENT] [INFO] [CHAT] <Player873> y
+2014-03-03 06:02:49 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-03 06:02:49 [CLIENT] [INFO] [CHAT] <Player873> test
+2014-03-03 06:02:56 [CLIENT] [INFO] Stopping!
+2014-03-03 06:03:37 [CLIENT] [INFO] Setting user: Player871
+2014-03-03 06:03:37 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-03 06:03:38 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-03 06:03:40 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-03 06:03:41 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-03 06:03:41 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-03 06:03:41 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-03 06:03:47 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-03 06:03:52 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-03 06:03:52 [CLIENT] [INFO] [CHAT] <Player871> t
+2014-03-03 06:09:32 [CLIENT] [INFO] Stopping!
+2014-03-03 06:09:40 [CLIENT] [INFO] Setting user: Player7
+2014-03-03 06:09:41 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-03 06:09:41 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-03 06:09:44 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-03 06:09:44 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-03 06:09:45 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-03 06:09:45 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-03 06:09:51 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-03 06:09:56 [CLIENT] [INFO] [CHAT] DEBUG: false
+2014-03-03 06:09:56 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-03 06:09:56 [CLIENT] [INFO] [CHAT] <Player7> t
+2014-03-03 06:10:03 [CLIENT] [INFO] [CHAT] DEBUG: false
+2014-03-03 06:10:03 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-03 06:10:03 [CLIENT] [INFO] [CHAT] <Player7> t
+2014-03-03 06:10:19 [CLIENT] [INFO] Stopping!
+2014-03-03 06:11:07 [CLIENT] [INFO] Setting user: Player546
+2014-03-03 06:11:08 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-03 06:11:08 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-03 06:11:11 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-03 06:11:12 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-03 06:11:12 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-03 06:11:12 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-03 06:11:18 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-03 06:11:21 [CLIENT] [INFO] [CHAT] DEBUG: false
+2014-03-03 06:11:21 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-03 06:11:21 [CLIENT] [INFO] [CHAT] <Player546> t
+2014-03-03 06:11:28 [CLIENT] [INFO] [CHAT] DEBUG: false
+2014-03-03 06:11:28 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-03 06:11:28 [CLIENT] [INFO] [CHAT] <Player546> t
+2014-03-03 06:11:31 [CLIENT] [INFO] [CHAT] DEBUG: false
+2014-03-03 06:11:31 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-03 06:11:31 [CLIENT] [INFO] [CHAT] <Player546> t
+2014-03-03 06:11:35 [CLIENT] [INFO] Stopping!
+2014-03-03 06:12:04 [CLIENT] [INFO] Setting user: Player366
+2014-03-03 06:12:05 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-03 06:12:05 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-03 06:12:08 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-03 06:12:08 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-03 06:12:09 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-03 06:12:09 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-03 06:12:15 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-03 06:12:17 [CLIENT] [INFO] [CHAT] DEBUG: false
+2014-03-03 06:12:17 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-03 06:12:17 [CLIENT] [INFO] [CHAT] <Player366> t
+2014-03-03 06:12:20 [CLIENT] [INFO] [CHAT] DEBUG: false
+2014-03-03 06:12:20 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-03 06:12:20 [CLIENT] [INFO] [CHAT] <Player366> t
+2014-03-03 06:16:51 [CLIENT] [INFO] Stopping!

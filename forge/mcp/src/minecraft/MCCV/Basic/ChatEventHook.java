@@ -32,10 +32,22 @@ public class ChatEventHook {
 	
 	@ForgeSubscribe
 	public void onServerChatEvent(ServerChatEvent event) {
-		event.player.addChatMessage("Can you please confirm that input? \n y or n");
-		output.println(event.message);
-		output.flush();
-		
-		
+		ChatInputHandler chatHandler = ChatInputHandler.getInstance();
+		if (chatHandler.messagePending()) {
+			if (event.message.equalsIgnoreCase("y")) {
+				chatHandler.confirmLastMessage();
+				event.player.addChatMessage("Input confirmed");
+			}	
+			else if (event.message.equalsIgnoreCase("n")) {
+				chatHandler.discardLastMessage();
+				event.player.addChatMessage("Input discarded");
+			}
+			else
+				event.player.addChatMessage("Please enter y or n");
+		}
+		else {
+			chatHandler.addMessage(event.message);
+			event.player.addChatMessage("Can you please confirm that input? \n y or n");
+		}
 	}
 }

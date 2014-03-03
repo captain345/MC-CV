@@ -1,0 +1,23 @@
+//Class to handle user input
+//This is a singletone class, please don't create public constructors =)
+
+package MCCV.Basic;
+
+public class ChatInputHandler {
+	private static ChatInputHandler instance;
+	
+	private ChatInputHandler() {
+		
+	}
+	
+	public static ChatInputHandler getInstance() {
+		if (instance == null) {
+			return new ChatInputHandler();
+		}
+		else {
+			return instance;
+		}
+	}
+	
+	
+}
