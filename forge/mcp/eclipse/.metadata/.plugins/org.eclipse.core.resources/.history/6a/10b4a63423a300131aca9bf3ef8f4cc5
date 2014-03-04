@@ -1,0 +1,20 @@
+package MCCV.Basic;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.PrintWriter;
+
+
+public class CVWriter {
+	private BufferedReader templateReader;
+	private PrintWriter cvwriter;
+	
+	public CVWriter() {
+		try {
+			templateReader = new BufferedReader(new FileReader("/Users/kexidt/Desktop/test.txt"));
+		}
+		catch (FileNotFoundException e) {
+			System.out.println("ERROR: No teplate found");
+		}
+	}
+}

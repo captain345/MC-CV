@@ -1,0 +1,11 @@
+Here is some random saying.
+Here comes the first keyword: #KEY1
+Here comes the second keyword: #KEY2
+Here keyword will be in the middle of the sentence, #KEY3, like that.
+
+Here are the rest of the keys:
+#KEY4
+#KEY5
+#KEY6
+#KEY7
+#KEY8

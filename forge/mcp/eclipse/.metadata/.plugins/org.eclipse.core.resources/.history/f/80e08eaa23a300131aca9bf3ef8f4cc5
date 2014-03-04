@@ -1,0 +1,45 @@
+package MCCV.Basic;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.LinkedList;
+
+
+public class CVWriter {
+	private BufferedReader templateReader;
+	private PrintWriter cvwriter;
+	
+	public CVWriter() {
+		try {
+			templateReader = new BufferedReader(new FileReader("/Users/kexidt/Desktop/test.txt"));
+			cvwriter = new PrintWriter(new BufferedWriter(new FileWriter("/Users/kexidt/Desktop/test2.txt")));
+		}
+		catch (FileNotFoundException e) {
+			System.out.println("ERROR: No teplate found");
+		}
+		catch (IOException e) {
+			System.out.println("ERROR: Unable to write to file \n" + e.getMessage());
+		}
+	}
+	
+	public void createCV(LinkedList<String> messages) {
+		String cv = "";
+		
+		try {
+			while (templateReader.ready()) {
+				cv += templateReader.readLine();
+			}
+			
+			cvwriter.write(cv);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+}
