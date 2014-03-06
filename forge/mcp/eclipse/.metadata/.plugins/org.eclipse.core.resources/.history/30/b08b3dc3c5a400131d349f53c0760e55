@@ -41,7 +41,7 @@ public class CVWriter {
 		
 		try {
 			while (templateReader.ready()) {
-				template += String.format("%s %n", templateReader.readLine());
+				template += templateReader.readLine() + "\n";
 			}
 		} catch (IOException e) {
 			// TODO Auto-generated catch block

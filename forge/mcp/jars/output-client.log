@@ -412,3 +412,210 @@
 2014-03-04 01:00:08 [CLIENT] [INFO] [CHAT] Input confirmed
 2014-03-04 01:00:08 [CLIENT] [INFO] [CHAT] <Player408> y
 2014-03-04 01:00:12 [CLIENT] [INFO] Stopping!
+2014-03-06 00:11:35 [CLIENT] [INFO] Setting user: Player391
+2014-03-06 00:11:36 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-06 00:11:37 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-06 00:11:39 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-06 00:11:40 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-06 00:11:41 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-06 00:11:41 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-06 00:11:42 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-06 00:11:58 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:11:58 [CLIENT] [INFO] [CHAT] <Player391> test 1
+2014-03-06 00:12:01 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:12:01 [CLIENT] [INFO] [CHAT] <Player391> y
+2014-03-06 00:12:05 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:12:05 [CLIENT] [INFO] [CHAT] <Player391> test 2
+2014-03-06 00:12:07 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:12:07 [CLIENT] [INFO] [CHAT] <Player391> y
+2014-03-06 00:12:11 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:12:11 [CLIENT] [INFO] [CHAT] <Player391> test 3
+2014-03-06 00:12:12 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:12:12 [CLIENT] [INFO] [CHAT] <Player391> y
+2014-03-06 00:12:15 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:12:15 [CLIENT] [INFO] [CHAT] <Player391> test 4
+2014-03-06 00:12:17 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:12:17 [CLIENT] [INFO] [CHAT] <Player391> y
+2014-03-06 00:12:21 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:12:21 [CLIENT] [INFO] [CHAT] <Player391> test 5
+2014-03-06 00:12:23 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:12:23 [CLIENT] [INFO] [CHAT] <Player391> y
+2014-03-06 00:12:26 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:12:26 [CLIENT] [INFO] [CHAT] <Player391> test 6
+2014-03-06 00:12:30 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:12:30 [CLIENT] [INFO] [CHAT] <Player391> y
+2014-03-06 00:12:35 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:12:35 [CLIENT] [INFO] [CHAT] <Player391> test 7
+2014-03-06 00:12:37 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:12:37 [CLIENT] [INFO] [CHAT] <Player391> y
+2014-03-06 00:12:41 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:12:41 [CLIENT] [INFO] [CHAT] <Player391> test 8
+2014-03-06 00:12:42 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:12:42 [CLIENT] [INFO] [CHAT] <Player391> y
+2014-03-06 00:12:47 [CLIENT] [INFO] Stopping!
+2014-03-06 00:14:55 [CLIENT] [INFO] Setting user: Player747
+2014-03-06 00:14:55 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-06 00:14:56 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-06 00:14:59 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-06 00:14:59 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-06 00:14:59 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-06 00:15:00 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-06 00:15:01 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-06 00:15:08 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:15:08 [CLIENT] [INFO] [CHAT] <Player747> 1
+2014-03-06 00:15:09 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:15:09 [CLIENT] [INFO] [CHAT] <Player747> y
+2014-03-06 00:15:11 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:15:11 [CLIENT] [INFO] [CHAT] <Player747> 2
+2014-03-06 00:15:12 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:15:12 [CLIENT] [INFO] [CHAT] <Player747> y
+2014-03-06 00:15:14 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:15:14 [CLIENT] [INFO] [CHAT] <Player747> 3
+2014-03-06 00:15:15 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:15:15 [CLIENT] [INFO] [CHAT] <Player747> y
+2014-03-06 00:15:17 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:15:17 [CLIENT] [INFO] [CHAT] <Player747> 4
+2014-03-06 00:15:19 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:15:19 [CLIENT] [INFO] [CHAT] <Player747> y
+2014-03-06 00:15:21 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:15:21 [CLIENT] [INFO] [CHAT] <Player747> 5
+2014-03-06 00:15:23 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:15:23 [CLIENT] [INFO] [CHAT] <Player747> y
+2014-03-06 00:15:24 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:15:24 [CLIENT] [INFO] [CHAT] <Player747> 6
+2014-03-06 00:15:26 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:15:26 [CLIENT] [INFO] [CHAT] <Player747> y
+2014-03-06 00:15:28 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:15:28 [CLIENT] [INFO] [CHAT] <Player747> 7
+2014-03-06 00:15:30 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:15:30 [CLIENT] [INFO] [CHAT] <Player747> y
+2014-03-06 00:15:32 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:15:32 [CLIENT] [INFO] [CHAT] <Player747> 8
+2014-03-06 00:15:34 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:15:34 [CLIENT] [INFO] [CHAT] <Player747> y
+2014-03-06 00:15:39 [CLIENT] [INFO] Stopping!
+2014-03-06 00:18:26 [CLIENT] [INFO] Setting user: Player27
+2014-03-06 00:18:27 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-06 00:18:28 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-06 00:18:32 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-06 00:18:33 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-06 00:18:33 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-06 00:18:34 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-06 00:18:36 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-06 00:18:46 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:18:46 [CLIENT] [INFO] [CHAT] <Player27> test 1
+2014-03-06 00:18:48 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:18:48 [CLIENT] [INFO] [CHAT] <Player27> y
+2014-03-06 00:18:51 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:18:51 [CLIENT] [INFO] [CHAT] <Player27> test 2
+2014-03-06 00:18:52 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:18:52 [CLIENT] [INFO] [CHAT] <Player27> y
+2014-03-06 00:18:54 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:18:54 [CLIENT] [INFO] [CHAT] <Player27> test 3
+2014-03-06 00:18:56 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:18:56 [CLIENT] [INFO] [CHAT] <Player27> y
+2014-03-06 00:19:02 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:19:02 [CLIENT] [INFO] [CHAT] <Player27> test 4
+2014-03-06 00:19:03 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:19:03 [CLIENT] [INFO] [CHAT] <Player27> y
+2014-03-06 00:19:07 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:19:07 [CLIENT] [INFO] [CHAT] <Player27> test 5
+2014-03-06 00:19:08 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:19:08 [CLIENT] [INFO] [CHAT] <Player27> y
+2014-03-06 00:19:11 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:19:11 [CLIENT] [INFO] [CHAT] <Player27> test 6
+2014-03-06 00:19:12 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:19:12 [CLIENT] [INFO] [CHAT] <Player27> y
+2014-03-06 00:19:14 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:19:14 [CLIENT] [INFO] [CHAT] <Player27> test 7
+2014-03-06 00:19:17 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:19:17 [CLIENT] [INFO] [CHAT] <Player27> y
+2014-03-06 00:19:20 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:19:20 [CLIENT] [INFO] [CHAT] <Player27> test 8
+2014-03-06 00:19:22 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:19:22 [CLIENT] [INFO] [CHAT] <Player27> y
+2014-03-06 00:19:25 [CLIENT] [INFO] Stopping!
+2014-03-06 00:25:08 [CLIENT] [INFO] Setting user: Player657
+2014-03-06 00:25:09 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-06 00:25:09 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-06 00:25:12 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-06 00:25:13 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-06 00:25:13 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft CV Modification
+2014-03-06 00:25:13 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_null.png
+2014-03-06 00:25:15 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-06 00:25:26 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:25:26 [CLIENT] [INFO] [CHAT] <Player657> 1
+2014-03-06 00:25:28 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:25:28 [CLIENT] [INFO] [CHAT] <Player657> y
+2014-03-06 00:25:28 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:25:28 [CLIENT] [INFO] [CHAT] <Player657> 2
+2014-03-06 00:25:30 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:25:30 [CLIENT] [INFO] [CHAT] <Player657> y
+2014-03-06 00:25:31 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:25:31 [CLIENT] [INFO] [CHAT] <Player657> 3
+2014-03-06 00:25:32 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:25:32 [CLIENT] [INFO] [CHAT] <Player657> y
+2014-03-06 00:25:33 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:25:33 [CLIENT] [INFO] [CHAT] <Player657> 4
+2014-03-06 00:25:35 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:25:35 [CLIENT] [INFO] [CHAT] <Player657> y
+2014-03-06 00:25:36 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:25:36 [CLIENT] [INFO] [CHAT] <Player657> 5
+2014-03-06 00:25:37 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:25:37 [CLIENT] [INFO] [CHAT] <Player657> y
+2014-03-06 00:25:39 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:25:39 [CLIENT] [INFO] [CHAT] <Player657> 6
+2014-03-06 00:25:41 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:25:41 [CLIENT] [INFO] [CHAT] <Player657> y
+2014-03-06 00:25:43 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:25:43 [CLIENT] [INFO] [CHAT] <Player657> 7
+2014-03-06 00:25:46 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:25:46 [CLIENT] [INFO] [CHAT] <Player657> y
+2014-03-06 00:25:48 [CLIENT] [INFO] [CHAT] Player657 was slain by Zombie
+2014-03-06 00:25:49 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:25:49 [CLIENT] [INFO] [CHAT] <Player657> 8
+2014-03-06 00:25:53 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:25:53 [CLIENT] [INFO] [CHAT] <Player657> y
+2014-03-06 00:26:12 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:26:12 [CLIENT] [INFO] [CHAT] <Player657> 9
+2014-03-06 00:26:13 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:26:13 [CLIENT] [INFO] [CHAT] <Player657> y
+2014-03-06 00:26:17 [CLIENT] [INFO] [CHAT] Can you please confirm that input? 
+ y or n
+2014-03-06 00:26:17 [CLIENT] [INFO] [CHAT] <Player657> 10
+2014-03-06 00:26:19 [CLIENT] [INFO] [CHAT] Input confirmed
+2014-03-06 00:26:19 [CLIENT] [INFO] [CHAT] <Player657> y
+2014-03-06 00:26:31 [CLIENT] [INFO] Stopping!
